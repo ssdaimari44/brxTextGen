@@ -1,0 +1,6 @@
+templates:
+  bornIn: "{subject} was born in {object}."
+  spouseOf: "{subject} is married to {object}."
+  capitalOf: "{object} is the capital of {subject}."
+defaults:
+  generic: "{subject} {predicate} {object}."
